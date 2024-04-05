@@ -66,5 +66,5 @@ Disclaimer:
 
 Unfortunely getting the app to run was a hassle despite all my efforts. I only got it to the point where it installed on my phone. Due to countless errors to a bug that i dont yet know how to fix.This was the best I could currently do. If it works on ma'ams emulator please grade according to that because a pc upgrade to run blestacks is not in my budget right now and the vc doesnt work for me either but i will get it sorted in due time.
 
-youtuble link:
+youtuble link: https://youtu.be/vOXANt21hGM?si=ni1gVEFv3HkGCZ85
 
