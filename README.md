@@ -1,3 +1,5 @@
+Elrique Dolf
+ST10434187
 App description :
 
 Enter Your Age Button: When users open the app, they are prompted to input their age using the "Enter Your Age" button. This age serves as the parameter for the app's search function. Users can type in their age manually or use a scroll wheel to select their age from a range.
